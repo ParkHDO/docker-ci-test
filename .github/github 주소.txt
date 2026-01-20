@@ -1,1 +1,10 @@
 https://github.com/ParkHDO/docker-ci-test.git
+
+push 충돌시 명령어(강제 업데이트라 사용은 자제)
+git push origin main --force
+
+1. Run
+docker login -u parkheedo
+
+2. token
+dckr_pat_GmwaKNfswgTsBoP6BhNZcEtfics
